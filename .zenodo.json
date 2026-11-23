@@ -1,0 +1,17 @@
+{
+  "title": "Recovery Compass",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "version": "v0.1.0",
+  "creators": [
+    {
+      "name": "Weis, Aaron Michael",
+      "orcid": "0009-0002-1906-148X",
+      "affiliation": "Oneiron Holdings LLC"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "access_right": "open",
+  "description": "<p>A paper about what observations of file paths and byte content can establish after a transfer, including conflicts, unread files, and uncertain matches.</p><p>Research by Aaron Michael Weis. The original concept work and the editing of this edition used AI assistance. The paper reports no measured field outcome.</p>"
+}
